@@ -1,6 +1,8 @@
 # ElegantCommerce Website Template
 
-![ElegantCommerce](link_to_your_website_screenshot.png)
+![ElegantCommerce]
+![image](https://github.com/vinay-a1coder/HTML-CSS-Ecommerce-Template/assets/97262201/75094c98-049c-44bb-88c5-58b0fe2bf445)
+
 
 ElegantCommerce is a beautifully designed and highly functional ecommerce website template built using HTML and CSS. This template provides a seamless shopping experience for your customers, showcasing your products in an elegant and captivating manner. Whether you're starting an online store from scratch or revamping an existing one, ElegantCommerce has you covered.
 
